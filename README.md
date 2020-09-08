@@ -12,6 +12,9 @@ Yongqin Xian, Christoph H. Lampert, Bernt Schiele, Zeynep Akata. "Zero-Shot Lear
 潘崇煜, 黄健, 郝建国, 龚建兴, 张中杰. "融合零样本学习和小样本学习的弱监督机器学习方法综述". 系统工程与电子技术 (2020). [[pdf]](https://kns.cnki.net/KCMS/detail/11.2422.tn.20200318.1046.030.html)
 #### 2020
 
+#### 2009
+Christoph H. Lampert, Hannes Nickisch, Stefan Harmeling. "Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer". CVPR (2009). [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.165.9750&rep=rep1&type=pdf)
+
 ## One-shot Learning
 #### Survey
 #### 2019
@@ -22,3 +25,5 @@ Guo-Jun Qi, Jiebo Luo. "Small Data Challenges in Big Data Era: A Survey of Recen
 
 Yaqing Wang,  Quanming Yao, James T. Kwok, Lionel M. Ni. "Generalizing from a Few Examples: A Survey on Few-shot Learning". CSUR (2020). [[pdf]](https://dl.acm.org/doi/abs/10.1145/3386252)
 #### 2018
+
+
