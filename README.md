@@ -12,6 +12,9 @@ Yongqin Xian, Christoph H. Lampert, Bernt Schiele, Zeynep Akata. "Zero-Shot Lear
 潘崇煜, 黄健, 郝建国, 龚建兴, 张中杰. "融合零样本学习和小样本学习的弱监督机器学习方法综述". 系统工程与电子技术 (2020). [[pdf]](https://kns.cnki.net/KCMS/detail/11.2422.tn.20200318.1046.030.html)
 #### 2020
 
+#### 2015
+Ziming Zhang, V enkatesh Saligrama. "Zero-Shot Learning via Semantic Similarity Embedding". ICCV (2015). [[pdf]](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zhang_Zero-Shot_Learning_via_ICCV_2015_paper.pdf)
+
 #### 2009
 Christoph H. Lampert, Hannes Nickisch, Stefan Harmeling. "Learning To Detect Unseen Object Classes by Between-Class Attribute Transfer". CVPR (2009). [[pdf]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.165.9750&rep=rep1&type=pdf)
 
